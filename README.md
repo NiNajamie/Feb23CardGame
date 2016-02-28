@@ -4,7 +4,7 @@ Learning how to make an iPhone app with Swift.
 
 -Auto Layout	
 -Size Classes 
--UIKit  
+-UIKit    
 -IBOutlet properties  
 -Methods  
 -Image asset Library  
