@@ -3,7 +3,7 @@
 Learning how to make an iPhone app with Swift.
 
 -Auto Layout	
--Size Classes 
+-Size Classes   
 -UIKit    
 -IBOutlet properties  
 -Methods  
