@@ -9,6 +9,6 @@ Learning how to make an iPhone app with Swift.
 -Methods  
 -Image asset Library  
 -Randomize the cards  
--Using arrays to manage the card images 
+-Using arrays to manage the card images   
 -Determining using If statements  
--Styling and keeping score  
+-Styling and keeping score    
