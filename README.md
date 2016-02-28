@@ -2,7 +2,7 @@
 
 Learning how to make an iPhone app with Swift.
 
--Auto Layout\n
+-Auto Layout	
 -Size Classes
 -UIKit
 -IBOutlet properties
