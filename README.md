@@ -13,5 +13,5 @@ Learning how to make an iPhone app with Swift.
 -Determining using If statements  
 -Styling and keeping score    
 
-Reference:
+# Reference:
 CodeWithChris
