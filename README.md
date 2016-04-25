@@ -12,3 +12,6 @@ Learning how to make an iPhone app with Swift.
 -Using arrays to manage the card images   
 -Determining using If statements  
 -Styling and keeping score    
+
+Reference:
+CodeWithChris
